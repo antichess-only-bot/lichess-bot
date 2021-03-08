@@ -1,4 +1,4 @@
-token: "5BmC8lnXx1cJYCOS"     # lichess OAuth2 Token
+token: "riVe6zHc99NeowjE"     # lichess OAuth2 Token
 url: "https://lichess.org/"  # lichess base URL
 
 engine:                      # engine settings
